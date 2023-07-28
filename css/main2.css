@@ -1,0 +1,47 @@
+.bir{
+    font-size:25px;
+    height: 40px !important;
+    background-color: blue;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.ikki{
+    font-size:25px;
+    margin-left: 10px;
+    height: 40px !important;
+    background-color: lightseagreen;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.uch{
+    font-size:25px;
+    margin-left: 10px;
+    height: 40px !important;
+    background-color: red;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.tort{
+    font-size:25px;
+    margin-left: 10px;
+    height: 40px !important;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.besh{
+    font-size:25px;
+    margin-left: 10px;
+    height: 40px !important;
+    background-color:yellow;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.bosh{
+    font-size: 50px;
+}

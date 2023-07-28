@@ -1,0 +1,50 @@
+.bir{
+    font-size: 20px;
+    padding-top: 5px;
+    margin-left: 10px;
+    height: 50px !important;
+    background-color: blue;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.ikki{
+    font-size: 20px;
+    padding-top: 5px;
+    margin-left: 10px;
+    height: 50px !important;
+    background-color: red;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.uch{
+    font-size: 20px;
+    padding-top: 5px;
+    margin-left: 10px;
+    height: 50px !important;
+    background-color: red;
+    text-align: center;
+    color: white;
+}.tort{
+     font-size: 20px;
+     padding-top: 5px;
+     margin-left: 10px;
+     height: 50px !important;
+     background-color:deepskyblue;
+     border-radius: 5px;
+     text-align: center;
+     color: white;
+ }
+ .bir1{
+     border-radius: 20px;
+ }
+ .new{
+     border-radius: 10px ;
+ }
+ .bir3{
+     font-size: 40px;
+ }
+.bir2{
+    font-size: 30px;
+}

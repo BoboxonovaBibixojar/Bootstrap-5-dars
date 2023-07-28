@@ -1,0 +1,30 @@
+.bir{
+    color: blue;
+    display: inline-block;
+}
+.ikki{
+    color: blue;
+    display: inline-block;
+}
+.uch{
+    display: inline-block;
+}
+.bosh{
+    color: blue;
+}
+.abs{
+    color: blue;
+    font-size: 20px;
+    margin: 20px !important;
+}
+.abs1{
+    padding-top:4px;
+    text-align: center;
+    width: 45px;
+    border-radius: 3px;
+    height: 45px;
+    background-color: royalblue;
+    color:white;
+    font-size: 20px;
+    margin: 20px !important;
+}
